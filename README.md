@@ -6,3 +6,4 @@ There is two ways to upload your files to repositories, which is use terminal an
 Github使用技巧.docx https://pan.wps.cn/l/scZVoGE2F
 # To see details of how to FanQiang, please refers to the URL below
 privoxy+ss在linux上面实现科学上网教程.docx https://pan.wps.cn/l/s0qXBXDmz
+# For keil users, there isn't any available plugins for Git, so please create .git and .gitinore file manually, then, follow the instruction above, Thanks!
